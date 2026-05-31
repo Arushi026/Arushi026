@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **singharushi073@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15U47L7uPs1z_M1byOd1Tvnk39Rg_Xqwj/view?usp=drivesdk](https://drive.google.com/file/d/15U47L7uPs1z_M1byOd1Tvnk39Rg_Xqwj/view?usp=drivesdk)
+- 📄 Portfolio <a href="https://linkedin.com/in/arushi dhigurvar" target="blank">
+
 
 - ⚡ Fun fact **I debug my code like Sherlock solves Crimes.**
 
